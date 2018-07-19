@@ -1,0 +1,15 @@
+entry : 入口
+output 出口
+filename 文件名称
+path 路径
+use 使用
+test 检测
+module.exports 出口
+plugins 插件
+chunk 大块
+永远不要在生产环境(production)下启用 HMR
+HotModuleReplacementPlugin
+https://doc.webpack-china.org/loaders/raw-loader
+Presets 预先设置
+failed 失败
+loader 装载 加载
